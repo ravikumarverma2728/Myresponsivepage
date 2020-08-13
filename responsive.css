@@ -1,0 +1,49 @@
+
+ 	  
+ 	  
+   
+.row1{
+	border: 20px solid;
+	border-color: #33a2bdfa;
+
+}
+.adiv{
+	 height: 515px;
+	 background-color: white;
+	 outline-color: border: black;
+
+	
+}
+.bdiv{
+	 height: 515px;
+	 background-color: white;
+}
+.cdiv{
+	 height: 515px;
+	 background-color:white;
+}
+.row2{
+	border: 20px solid;
+	border-color: #33a2bdfa;
+}
+.adiv .cards{
+	padding-right: 10px;
+}
+.bdiv .card{
+	height: 290px;
+}
+.bdiv .acard{
+	height: 70px;
+}
+.bdiv .btn{
+	width: 100%;
+	background-color: limegreen;
+	border: none;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+.bdiv .acard .cardbody .container input[type="password"]{
+    width: 100%;
+    border: 2px solid;
+    border-radius: 4px;
+                	}
